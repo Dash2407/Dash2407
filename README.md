@@ -1,3 +1,4 @@
+Acerca de mí:
 - 👋 Hola, mi nombre es Danna Herrera.
 - 👀 Estoy interesada en el teatro, la tecnología, el canto, los libros y los animales.
 - 🌱 Actualmente me encuentro aprendiendo programación.
