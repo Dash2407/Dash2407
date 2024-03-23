@@ -1,5 +1,5 @@
 # Acerca de mí:
-## Hola, mi nombre es Danna Herrera.
+### Hola, mi nombre es Danna Herrera.
 Soy estudiante de la Licenciatura en Enseñanza del Idioma Inglés (LEII) en la Facultad de Educación de la Universidad Autónoma de Yucatán (UADY9, he tomado cursos básicos de diseño gráfico y programación web. Amo la música, el canto, leer, los animales, la fotografía y el teatro.
 
 <!---
